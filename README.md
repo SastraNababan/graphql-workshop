@@ -65,11 +65,10 @@ Welcome to GraphQL Workshop
 
 - [**2.2-server-schema-relationship-many-to-many**](https://codesandbox.io/s/github/SastraNababan/graphql-workshop/tree/master/2.2+server-schema-relationship-one-to-many)
   
-- [**`3.0-server-data-sources-rest`** ](https://codesandbox.io/s/github/SastraNababan/graphql-workshop/tree/master/3.0-data-sources-rest)    
+- [**3.0-server-data-sources-rest** ](https://codesandbox.io/s/github/sastraNababan/graphql-workshop/tree/master/3.0-data-sources-rest)    
 
-- [**`3.1-server-data-sources-rest`** ](https://codesandbox.io/s/github/SastraNababan/graphql-workshop/tree/master/3.1-data-sources-rest)
+- [**3.1-server-data-sources-rest** ](https://codesandbox.io/s/github/sastraNababan/graphql-workshop/tree/master/3.1-data-sources-rest-finish)
 
 
-- [**`4.0-server-data-source-db`**](https://codesandbox.io/s/github/SastraNababan/graphql-workshop/tree/master/3.1-data-sources-rest)
- 
+
 
