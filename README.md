@@ -31,13 +31,13 @@ Welcome to GraphQL Workshop
 - **`2.1-server-schema-relationship-one-one`**
 - **`2.2-server-schema-relationship-many-to-many`**
 
-**- `3.0-server-data-sources-rest`**  
-  - fetch movie from rest with apollo-datasource-rest
-  - connect with data sources
-  - refactor resolver
-  - add new type & resolver for poster
+- **`3.0-server-data-sources-rest`**  
+   - fetch movie from rest with apollo-datasource-rest
+   - connect with data sources
+   - refactor resolver
+   - add new type & resolver for poster
 
-**- `4.0-server-data-source-db`**
+- **`4.0-server-data-source-db`**
   - fetch & save to db (sqllite)
   - mutation for login and likes
   - simple authentication
