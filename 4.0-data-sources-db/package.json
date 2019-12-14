@@ -12,10 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "apollo-datasource-rest": "^0.2.1",
-    "apollo-server": "^2.3.1",
-    "graphql": "^14.1.1",
+    "apollo-server": "^2.9.13",
+    "graphql": "^14.5.8",
     "isemail": "^3.2.0",
-    "nodemon": "^1.18.9",
+    "nodemon": "^1.19.4",
     "sequelize": "^4.42.0",
     "sqlite3": "^4.0.6"
   }
